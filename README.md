@@ -1,7 +1,7 @@
 # Notebooks
 Jupyter Notebooks with solutions to the CIML textbook and variety of other ML algorithm implementations.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Zeyuzhao/Notebooks/blob/master/mle_gaussian.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Zeyuzhao/Notebooks/blob/master/stat/mle_gaussian.ipynb)
 
 ## Usage
 
